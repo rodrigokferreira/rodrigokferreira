@@ -18,9 +18,6 @@ I'm a **Back-End Developer** with a focus on building scalable and efficient sol
 - **Docker & Kubernetes**
 - **CI/CD Pipelines**
 
-### 🛠️ GitHub Stats:
-![Rodrigo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodrigokferreira&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigokferreira&layout=compact&theme=radical)
 
 ### 🛠️ Projects:
